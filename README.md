@@ -1,4 +1,4 @@
-### Hi there!! i'm gaia :) 
+# Hi there!! i'm gaia :) 
 
 I'm a 21-year-old computer engineering student based in Italy!
 
