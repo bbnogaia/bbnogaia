@@ -12,7 +12,7 @@ I'm a 21-year-old computer engineering student based in Italy!
 - Node.js
 
 ## Fun facts about me :p 
-I really enjoy watching football (yes the one you play with feet and that's definitely not soccer) and i'm currently working on a web application for amateur football teams!!
+I really enjoy watching football (yes the one you play with feet and that's definitely not called soccer) and i'm currently working on a web application for amateur football teams!!
 I also like anime, black cats and taking pictures ;)
 
 
