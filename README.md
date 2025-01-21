@@ -1,6 +1,6 @@
 # Hi there!! i'm gaia :) 
 
-I'm a 21-year-old computer engineering student based in Italy!
+I'm a 22-year-old computer engineering student based in Italy!
 
 ## My toolbox:
 - Java
