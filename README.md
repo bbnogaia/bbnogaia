@@ -11,6 +11,8 @@ I'm a 22-year-old computer engineering student based in Italy!
 - Node.js
 - Odoo
 - Python
+- Next.js
+- Typescript
 
 ## Fun facts about me :p 
 I really enjoy watching football (yes the one you play with feet and that's definitely not called soccer) and i'm currently working on a web application for amateur football teams!!
